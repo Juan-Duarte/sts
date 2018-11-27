@@ -1,0 +1,10 @@
+This email is to inform you of recent limit transaction history:
+
+Trade Type: `trade_type`
+Stock: `stock`
+Shares: `shares`
+Order Type: `order_type`
+Limit: `limit`
+
+Sincerely,
+the USTS development team.

@@ -1,0 +1,8 @@
+This email is to inform you of recent market transaction history:
+
+Trade Type: `trade_type`
+Stock: `stock`
+Shares: `shares`
+
+Sincerely,
+the USTS development team.

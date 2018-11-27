@@ -1,0 +1,6 @@
+This email is to inform you of a recent deposit into your account:
+
+Amount: `amount`
+
+Sincerely,
+the USTS development team.

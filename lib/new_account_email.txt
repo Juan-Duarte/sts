@@ -1,0 +1,7 @@
+Welcome to the Ultimate Stock Trading System!
+
+Navigate your browser to http://www.ultimatests.com to login with your
+e-mail and password.
+
+Sincerely,
+the USTS development team.
